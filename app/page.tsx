@@ -131,12 +131,12 @@ END:VCARD`
                 focuses on implementing AI-powered solutions for process efficiency and automation at Jindal Shadeed
                 Iron and Steel (Oman).
               </p>
-              <p className="text-sm text-muted-foreground leading-relaxed mt-2">
+              {/* <p className="text-sm text-muted-foreground leading-relaxed mt-2">
                 His experience includes data analysis, predictive modelling, and business intelligence, helping
                 organizations harness AI and digital tools to streamline operations. His technical acumen,
                 problem-solving skills, and passion for leveraging AI and automation for business transformation make
                 him a valuable asset in the evolving landscape of digital technology.
-              </p>
+              </p> */}
             </div>
 
             <div className="pt-2">
